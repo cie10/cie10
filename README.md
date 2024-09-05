@@ -80,4 +80,7 @@ Here are some ideas to get you started:
     <img
       src="https://img.shields.io/badge/leesky0075@dgu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/cielo__76?igsh=MXMxMnU2czRvMnF6YQ%3D%3D&utm_source=qr">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
