@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
+
 </div>
 
 <br>
