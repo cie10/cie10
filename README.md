@@ -34,11 +34,9 @@ Here are some ideas to get you started:
 
 <!-- 백엔드 부분 (파이썬, 장고, 자바, 스프링) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
 <br>
