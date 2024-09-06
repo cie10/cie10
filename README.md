@@ -84,3 +84,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+
+![cie10's github stats](https://github-readme-stats.vercel.app/api?username=cie10&show_icons=true)
+[![cie10's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cie10&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/cie10)
+
+
