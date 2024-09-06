@@ -1,3 +1,4 @@
+![Profile Picture](images/my_background.png)
 
 <div align="center">
   
