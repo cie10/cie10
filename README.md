@@ -1,11 +1,12 @@
 
 <div align="center">
   <h3>Hi there! 👋</h3>
-  <p>I'm <strong>Ha Neul</strong>, but you can call me <strong>Daisy</strong>! 🌼</p>
-  <p>I’m currently having a blast studying English conversation and dreaming of living in the UK someday 🇬🇧.</p>
-  <p>I love meeting new people and connecting with others—my MBTI is <strong>ESTJ</strong>, so I’m all about getting things done and leading with confidence.</p>
-  <p>Let's connect and build something amazing together!</p>
+  <p style="margin: 0;">I'm <strong>Ha Neul</strong>, but you can call me <strong>Daisy</strong>! 🌼</p>
+  <p style="margin: 0;">I’m currently having a blast studying English conversation and dreaming of living in the UK someday 🇬🇧.</p>
+  <p style="margin: 0;">I love meeting new people and connecting with others—my MBTI is <strong>ESTJ</strong>, so I’m all about getting things done and leading with confidence.</p>
+  <p style="margin: 0;">Let's connect and build something amazing together!</p>
 </div>
+
 
 
 
