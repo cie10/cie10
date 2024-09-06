@@ -9,10 +9,6 @@ Let’s connect and create something amazing!
 
 </div>
 
-
-
-
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stacks ✨</h3>
 
@@ -34,7 +30,6 @@ Let’s connect and create something amazing!
 <div align="center">
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
-
 </div>
 
 <br>
@@ -55,6 +50,7 @@ Let’s connect and create something amazing!
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 </div>
 
 <!--툴: vscode, intellij, jupyter -->
@@ -83,4 +79,3 @@ Let’s connect and create something amazing!
   <img src="https://github-readme-stats.vercel.app/api?username=cie10&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cie10&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" />
 </div>
-
