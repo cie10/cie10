@@ -1,4 +1,5 @@
-![Profile Picture](images/my_background.png)
+![Profile Picture](https://github.com/cie10/cie10/raw/main/images/my_background.png)
+
 
 <div align="center">
   
