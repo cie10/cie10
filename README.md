@@ -1,25 +1,7 @@
-## Hi there 👋
 
 
-**cie10/cie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-** 타이틀 꾸미기 테스트 **
-<div align="center">
-- 🔭 I’m currently working on ...
-  <br>
-- 🌱 I’m currently learning ...
-  <br>
-- 👯 I’m looking to collaborate on ...
-  <br>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-</div>
-<!--타이틀 부분-->
+# Hi! My name is Ha Neul, You can call me Daisy
+  
 
 
 <!--내용 부분-->
