@@ -1,11 +1,11 @@
 <div align="center">
   
-- **Hi there! 👋**  
-- I'm **Ha Neul**, but you can call me **Daisy**! 🌼  
-- Currently loving English conversation and dreaming of life in the UK 🇬🇧.  
-- I’m a people person who enjoys connecting with others.
-- My MBTI is **ESTJ**. So, I’m all about getting things done and leading with confidence.
-- Let’s connect and create something amazing!
+**Hi there! 👋**  
+I'm **Ha Neul**, but you can call me **Daisy**! 🌼  <br>
+Currently loving English conversation and dreaming of life in the **UK** 🇬🇧. <br>
+I’m a **People Person** 👥 who enjoys connecting with others.<br>
+I’m all about getting things done and leading with **Confidence** 😎.<br>
+Let’s connect and create something amazing!
 
 </div>
 
