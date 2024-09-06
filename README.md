@@ -1,6 +1,6 @@
 
 
-# Hi! My name is Ha Neul, You can call me Daisy
+ Hi! My name is Ha Neul, You can call me Daisy
   
 
 
