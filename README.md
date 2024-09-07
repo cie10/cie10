@@ -13,6 +13,17 @@ Let’s connect and create something amazing!
 
 </div>
 
+
+<h3 align="center">🎓 Education & Experience 🎓</h3>
+
+<div align="center">
+  <strong>Undergraduate Researcher</strong> at <em>Dongguk University</em> (2022 - 2024)<br>
+  <strong>Bachelor's in Computer Engineering</strong> - <em>Dongguk University</em> (2020 - 2024)<br>
+  <strong>Academic manager in the Caps(coding club)</strong> (2022 Mar - 2022 Dec)<br>
+</div>
+
+
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stacks ✨</h3>
 
