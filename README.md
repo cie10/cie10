@@ -13,12 +13,17 @@ Let’s connect and create something amazing!
 
 </div>
 
+<h3 align="center">🛠 Experience 🛠</h3>
+<div align="center">
+  <strong>Intern</strong> Saltware(AWS Partner Company) (2024 Jan - 2024 Feb)<br>
+  <strong>Undergraduate Researcher</strong> at <em>Dongguk University</em> (2022 - 2024)<br>
+</div>
 
-<h3 align="center">🎓 Education & Experience 🎓</h3>
+<h3 align="center">🎓 Education 🎓</h3>
 
 <div align="center">
   <strong>Bachelor's in Computer Engineering</strong> - <em>Dongguk University</em> (2020 - 2024)<br>
-  <strong>Undergraduate Researcher</strong> at <em>Dongguk University</em> (2022 - 2024)<br>
+  <strong>Teaching Assistant for 'Computer Algorithms and Practice'</strong> (2023 Sep - 2023 Dec)<br>
   <strong>Academic manager in the Caps(coding club)</strong> (2022 Mar - 2022 Dec)<br>
 </div>
 
