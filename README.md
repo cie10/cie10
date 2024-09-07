@@ -17,12 +17,21 @@ Let’s connect and create something amazing!
 <h3 align="center">🎓 Education & Experience 🎓</h3>
 
 <div align="center">
-  <strong>Undergraduate Researcher</strong> at <em>Dongguk University</em> (2022 - 2024)<br>
   <strong>Bachelor's in Computer Engineering</strong> - <em>Dongguk University</em> (2020 - 2024)<br>
+  <strong>Undergraduate Researcher</strong> at <em>Dongguk University</em> (2022 - 2024)<br>
   <strong>Academic manager in the Caps(coding club)</strong> (2022 Mar - 2022 Dec)<br>
 </div>
 
 
+<h3 align="center">📚 Research & Publications</h3>
+
+<div align="center">
+  <strong>AI 음성 봇을 활용한 노인 그룹별 맞춤형 서비스</strong><br>
+  <em>2024 대한전자공학회 하계종합학술대회</em><br>
+  <br>
+  <strong>낙상 감지를 위한 제스처 인식 시스템</strong><br>
+  <em>2023 한국스마트치안학회 국내학술대회</em><br>
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stacks ✨</h3>
