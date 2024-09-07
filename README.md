@@ -1,5 +1,5 @@
 
-<img src="https://github.com/cie10/cie10/raw/main/images/background.png" alt="Profile Picture" height="200px" width=100% />
+<img src="https://github.com/cie10/cie10/raw/main/images/edit_background.png" alt="Profile Picture"  />
 
 
 <div align="center">
