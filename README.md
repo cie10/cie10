@@ -1,9 +1,12 @@
 
 <img src="https://github.com/cie10/cie10/raw/main/images/background(1).png" alt="Profile Picture"  />
 
+<div align="center">
+  <h2><b>🚀 Ready. Set. <span style="color:#FFA500;">START!</span> 🚀</b></h2>
+</div>
 
 <div align="center">
-  
+
 **Hi there! 👋**  
 I'm **Ha Neul**, but you can call me **Daisy**! 🌼  <br>
 Currently loving English conversation and dreaming of life in the **UK** 🇬🇧. <br>
