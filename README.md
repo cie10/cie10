@@ -108,6 +108,5 @@ Let’s connect and create something amazing!
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cie10&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cie10&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" />
 </div>
