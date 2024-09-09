@@ -22,6 +22,8 @@ Let’s connect and create something amazing!
   <strong>Top Songs Right Now 🎧 :  </strong>
    <a href="https://www.youtube.com/watch?v=h0KIWaUEIgQ" style="color:blue;">사랑하게 될거야 by 한로로</a> , 
    <a href="https://www.youtube.com/watch?v=vnS_jn2uibs" style="color:blue;">한 페이지가 될 수 있게 by 데이식스 </a> <br>
+   <strong>Favorite Movie:</strong> <a href="https://www.imdb.com/title/tt2361509/" style="color:blue;">The Intern</a> 🎬 <br>
+  <strong>Favorite Quote:</strong> "Experience never gets old. Experience never goes out of fashion." <br>
    
    
 </div>
