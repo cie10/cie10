@@ -8,13 +8,22 @@
 <div align="center">
 
 **Hi there! 👋**  
-I'm **Ha Neul**, but you can call me **Daisy**! 🌼  <br>
+I'm **Ha Neul**, you can call me **Daisy**! 🌼  <br>
 Currently loving English conversation and dreaming of life in the **UK** 🇬🇧. <br>
 I’m a **People Person** 👥 who enjoys connecting with others.<br>
 I’m all about getting things done and leading with **Confidence** 😎.<br>
 Let’s connect and create something amazing!
 
 </div>
+
+<h3 align="center">🎶 Favorites 🎶</h3>
+<div align="center">
+  <strong>Favorite Artist:</strong>  한로로 🎸, 권진아 🎤 <br>
+  <strong>Top Songs Right Now 🎧 :  </strong>
+   사랑하게 될거야 by 한로로 , 뭔가 잘못됐어 by 권진아 <br>
+</div>
+
+
 
 <h3 align="center">🛠 Experience 🛠</h3>
 <div align="center">
