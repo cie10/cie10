@@ -20,10 +20,9 @@ Let’s connect and create something amazing!
 <div align="center">
   <strong>Favorite Artist:</strong>  한로로 🎸, 데이식스 🎤 <br>
   <strong>Top Songs Right Now 🎧 :  </strong>
-   <a href="https://www.youtube.com/watch?v=h0KIWaUEIgQ" style="color:blue;">사랑하게 될거야 by 한로로</a> , 한 페이지가 될 수 있게 by 데이식스 <br>
+   <a href="https://www.youtube.com/watch?v=h0KIWaUEIgQ" style="color:blue;">사랑하게 될거야 by 한로로</a> , 
+   <a href="https://www.youtube.com/watch?v=vnS_jn2uibs" style="color:blue;">한 페이지가 될 수 있게 by 데이식스 </a> <br>
    
-   
-
    
 </div>
 
