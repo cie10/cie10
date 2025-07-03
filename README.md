@@ -2,58 +2,13 @@
 <img src="https://github.com/cie10/cie10/raw/main/images/background(1).png" alt="Profile Picture"  />
 
 <div align="center">
-  <h2><b>🚀 Ready. Set. <span style="color:#FFA500;">START!</span> 🚀</b></h2>
-</div>
-
-<div align="center">
 
 **Hi there! 👋**  
-I'm **Ha Neul**, you can call me **Daisy**! 🌼  <br>
-Currently loving English conversation and dreaming of life in the **UK** 🇬🇧. <br>
+I'm **Ha Neul Lee**, you can call me **Skye**!  <br>
 I’m a **People Person** 👥 who enjoys connecting with others.<br>
 I’m all about getting things done and leading with **Confidence** 😎.<br>
 Let’s connect and create something amazing!
 
-</div>
-
-<h3 align="center">🎶 Favorites 🎶</h3>
-<div align="center">
-  <strong>Favorite Artist:</strong>  한로로 🎸, 데이식스 🎤 <br>
-  <strong>Top Songs Right Now 🎧 :  </strong>
-   <a href="https://www.youtube.com/watch?v=h0KIWaUEIgQ" style="color:blue;">사랑하게 될거야 by 한로로</a> , 
-   <a href="https://www.youtube.com/watch?v=vnS_jn2uibs" style="color:blue;">한 페이지가 될 수 있게 by 데이식스 </a> <br>
-   <strong>Favorite Movie:</strong> <a href="https://www.imdb.com/title/tt2361509/" style="color:blue;">The Intern</a> 🎬 <br>
-  <strong>Favorite Quote:</strong> "Experience never gets old. Experience never goes out of fashion." <br>
-   
-   
-</div>
-
-
-
-<h3 align="center">🛠 Experience 🛠</h3>
-<div align="center">
-  <strong>Intern</strong> Saltware(AWS Partner Company) (2024 Jan - 2024 Feb)<br>
-  <strong>Undergraduate Researcher</strong> at <em>Dongguk University</em> (2022 - 2024)<br>
-</div>
-
-<h3 align="center">🎓 Education 🎓</h3>
-
-<div align="center">
-  <strong>Bachelor's in Computer Engineering</strong> - <em>Dongguk University</em> (2020 - 2024)<br>
-  <strong>Teaching Assistant for 'Computer Algorithms and Practice'</strong> (2023 Sep - 2023 Dec)<br>
-  <strong>Academic manager in the Caps(coding club)</strong> (2022 Mar - 2022 Dec)<br>
-</div>
-
-
-<h3 align="center">📚 Research & Publications</h3>
-
-<div align="center">
-  <strong>AI 음성 봇을 활용한 노인 그룹별 맞춤형 서비스</strong><br>
-  <em>2024 대한전자공학회 하계종합학술대회</em><br>
-  <br>
-  <strong>낙상 감지를 위한 제스처 인식 시스템</strong><br>
-  <em>2023 한국스마트치안학회 국내학술대회</em><br>
-</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stacks ✨</h3>
@@ -121,6 +76,3 @@ Let’s connect and create something amazing!
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cie10&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" />
-</div>
